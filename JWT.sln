@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAPI", "BankAPI\BankAPI.csproj", "{24119326-33B8-4BD1-9ED8-BB443FEB123D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PensionAPI", "PensionAPI\PensionAPI.csproj", "{0AF21BA4-8051-4FFE-B44E-0BEB219A67AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB", "WEB\WEB.csproj", "{F597D772-8AB2-4234-88AF-64698CEC4C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24119326-33B8-4BD1-9ED8-BB443FEB123D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24119326-33B8-4BD1-9ED8-BB443FEB123D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24119326-33B8-4BD1-9ED8-BB443FEB123D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24119326-33B8-4BD1-9ED8-BB443FEB123D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF21BA4-8051-4FFE-B44E-0BEB219A67AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF21BA4-8051-4FFE-B44E-0BEB219A67AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF21BA4-8051-4FFE-B44E-0BEB219A67AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF21BA4-8051-4FFE-B44E-0BEB219A67AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F597D772-8AB2-4234-88AF-64698CEC4C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F597D772-8AB2-4234-88AF-64698CEC4C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F597D772-8AB2-4234-88AF-64698CEC4C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F597D772-8AB2-4234-88AF-64698CEC4C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
